@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.Auth", "IdentityServer.Auth\IdentityServer.Auth.csproj", "{DA0D75AD-5FD4-4CA5-B373-08DF4B4891F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.IQ", "Identity.IQ\Identity.IQ.csproj", "{08A48B49-0718-4B2A-A5DB-E381CE96A82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Mobil", "Identity.Mobil\Identity.Mobil.csproj", "{CD401629-1750-4132-AAD6-025E85CEB20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.IQApi", "Identity.IQApi\Identity.IQApi.csproj", "{5C93D400-ED19-4456-801E-ECCBAF0381ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.MobilApi", "Identity.MobilApi\Identity.MobilApi.csproj", "{BDF977EB-754D-4A57-AE5F-3EDA4EBC684F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0D75AD-5FD4-4CA5-B373-08DF4B4891F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0D75AD-5FD4-4CA5-B373-08DF4B4891F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0D75AD-5FD4-4CA5-B373-08DF4B4891F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0D75AD-5FD4-4CA5-B373-08DF4B4891F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A48B49-0718-4B2A-A5DB-E381CE96A82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A48B49-0718-4B2A-A5DB-E381CE96A82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A48B49-0718-4B2A-A5DB-E381CE96A82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A48B49-0718-4B2A-A5DB-E381CE96A82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD401629-1750-4132-AAD6-025E85CEB20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD401629-1750-4132-AAD6-025E85CEB20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD401629-1750-4132-AAD6-025E85CEB20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD401629-1750-4132-AAD6-025E85CEB20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C93D400-ED19-4456-801E-ECCBAF0381ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C93D400-ED19-4456-801E-ECCBAF0381ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C93D400-ED19-4456-801E-ECCBAF0381ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C93D400-ED19-4456-801E-ECCBAF0381ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF977EB-754D-4A57-AE5F-3EDA4EBC684F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF977EB-754D-4A57-AE5F-3EDA4EBC684F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF977EB-754D-4A57-AE5F-3EDA4EBC684F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF977EB-754D-4A57-AE5F-3EDA4EBC684F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

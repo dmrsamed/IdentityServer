@@ -1,0 +1,5 @@
+IqClient -> https://localhost:7074
+IqApi -> https://localhost:7024
+Mobil -> https://localhost:7188
+MobilApi -> https://localhost:7140
+IdentityServer -> https://localhost:7000
